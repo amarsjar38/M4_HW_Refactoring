@@ -1,2 +1,3 @@
+1774bee Task 1.2 - Git Log completed
 e138436 Task 1.1 - CodeStyle completed.
 cd1d217 Initial commit
